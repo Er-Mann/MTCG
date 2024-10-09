@@ -1,0 +1,14 @@
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\obj\Debug\net8.0\Zelenay_MTCG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\obj\Debug\net8.0\Zelenay_MTCG.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\obj\Debug\net8.0\Zelenay_MTCG.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\obj\Debug\net8.0\Zelenay_MTCG.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\bin\Debug\net8.0\Zelenay_MTCG.exe
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\bin\Debug\net8.0\Zelenay_MTCG.deps.json
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\bin\Debug\net8.0\Zelenay_MTCG.runtimeconfig.json
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\bin\Debug\net8.0\Zelenay_MTCG.dll
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\bin\Debug\net8.0\Zelenay_MTCG.pdb
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\obj\Debug\net8.0\Zelenay_MTCG.dll
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\obj\Debug\net8.0\refint\Zelenay_MTCG.dll
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\obj\Debug\net8.0\Zelenay_MTCG.pdb
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\obj\Debug\net8.0\Zelenay_MTCG.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Desktop\FH Technikum\SEM_3\SWEN\Zelenay_MTCG\Zelenay_MTCG\obj\Debug\net8.0\ref\Zelenay_MTCG.dll
